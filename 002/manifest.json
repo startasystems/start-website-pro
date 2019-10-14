@@ -1,0 +1,19 @@
+{
+  "name": "Website Pro Start[002]", "short_name": "Website Start[002]",
+  "description": "Website / PWA, Modelo Start[002] perfeito e incrível para apresentar seu produto ou serviço.",
+  "theme_color": "#AA0026", "background_color": "#AA0026",
+  "start_url": "./?or=pwa", "display": "standalone",
+  "orientation": "any", "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "../media/icons/002/icon_x384.png",
+      "sizes": "48x48 96x96 128x128 144x144 192x192 256x256 384x384",
+      "type": "image/png", "purpose": "any"
+    },
+    {
+      "src": "../media/icons/002/maskable_icon_x384.jpg",
+      "sizes": "48x48 96x96 128x128 144x144 192x192 256x256 384x384",
+      "type": "image/jpg", "purpose": "maskable"
+    }
+  ]
+}
