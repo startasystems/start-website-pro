@@ -1,0 +1,19 @@
+{
+  "name": "Website Pro Start[001] Demo[ofta]", "short_name": "Website Start[001]",
+  "description": "Website / PWA, Modelo Start[001] perfeito e incrível para apresentar seu produto ou serviço.",
+  "theme_color": "#006437", "background_color": "#006437",
+  "start_url": "./?or=pwa", "display": "standalone",
+  "orientation": "any", "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "../../../media/upload/icons/ofta/icon_x384.png",
+      "sizes": "48x48 96x96 128x128 144x144 192x192 256x256 384x384",
+      "type": "image/png", "purpose": "any"
+    },
+    {
+      "src": "../../../media/upload/icons/ofta/maskable_icon_x384.jpg",
+      "sizes": "48x48 96x96 128x128 144x144 192x192 256x256 384x384",
+      "type": "image/jpg", "purpose": "maskable"
+    }
+  ]
+}
